@@ -1,0 +1,45 @@
+a:link {
+	color:#111111
+}
+
+a:visited {
+	color:#FAA21A
+}
+
+a:hover {
+	color: #800000
+}
+
+A:active {
+	color: #008000
+}
+p, ul {
+	font-family:Verdana;
+	font-size:10;
+}
+p,ul{
+	text-align: justify;
+}
+p, ul {
+	text-indent:25px;
+}
+
+p, ul {
+	line-height:30px;
+	letter-spacing:2px;
+}
+
+#header {
+	text-transform:uppercase;
+}
+
+
+div {
+    background: #def0fc;
+    padding: 10px;
+	border-left: 3px solid #3498db;
+	}
+
+#do {
+	color: #800000;
+	font-weight: 800;
